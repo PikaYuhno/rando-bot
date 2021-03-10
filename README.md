@@ -1,2 +1,2 @@
-# experiment-bot-v2
+# rando-bot
 A discord bot for all usecases.
